@@ -22,7 +22,14 @@ namespace DecisionMaker
 
             var random = new Random();
             int index = random.Next(DecisionList.Count);
-            Console.WriteLine(DecisionList[index]);
+            var Decision = DecisionList[index];
+            if (DecisionList[index] == "Yes" || DecisionList[index] == "No")
+            {
+                var percentage = random.Next(100);
+                Decision = percentage.ToString()+" "+Decision;
+            }
+            
+            Console.WriteLine(Decision);
 
         }
     }
