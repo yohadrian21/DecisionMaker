@@ -1,0 +1,6 @@
+D:\BelajarGit\DecisionMaker\DecisionMaker\DecisionMaker\bin\Debug\DecisionMaker.exe.config
+D:\BelajarGit\DecisionMaker\DecisionMaker\DecisionMaker\bin\Debug\DecisionMaker.exe
+D:\BelajarGit\DecisionMaker\DecisionMaker\DecisionMaker\bin\Debug\DecisionMaker.pdb
+D:\BelajarGit\DecisionMaker\DecisionMaker\DecisionMaker\obj\Debug\DecisionMaker.csprojResolveAssemblyReference.cache
+D:\BelajarGit\DecisionMaker\DecisionMaker\DecisionMaker\obj\Debug\DecisionMaker.exe
+D:\BelajarGit\DecisionMaker\DecisionMaker\DecisionMaker\obj\Debug\DecisionMaker.pdb
